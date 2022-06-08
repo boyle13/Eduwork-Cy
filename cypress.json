@@ -1,0 +1,8 @@
+{
+    "chromeWebSecurity": false,
+    "env": {
+        "apiUrl": "URL situs disini",
+        "userEmail": "hehehe@wmail.com",
+        "userPassword": "pasword"
+      }
+}

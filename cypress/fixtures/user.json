@@ -1,0 +1,13 @@
+{
+    "username": "username",
+    "password": "password",
+    "body": "Fixtures are a great way to mock data for responses to routes",
+    "stdsauce": "standard_user",
+    "passsauce": "secret_sauce",
+    "wrongpass": "Mimimimimimimimi",
+    "lockedsauce": "locked_out_user", 
+    "firstname": "Boy",
+    "lastname": "Panji Lesmono",
+    "postalcode": "42069"
+  }
+  
